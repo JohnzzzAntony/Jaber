@@ -70,4 +70,5 @@ agent-ctx/
 mini-services/
 
 # Download folder
-download/
+download/*.deb
+gh
